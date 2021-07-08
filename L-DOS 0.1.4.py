@@ -33,8 +33,8 @@ def musread(file):
             pygame.mixer.music.set_pos(pos)
     pygame.mixer.music.stop()
 class ldos:
-    version = "0.1.4"
-    release = "L-DOS 0.1.4"
+    version = "0.1.4B0"
+    release = "L-DOS 0.1.4 Beta 0"
     ver_int = 5
     ver_flt = 0.14
     turtle.speed(10000000)
