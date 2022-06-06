@@ -1,4 +1,5 @@
 # L-DOS 0.1.4 [Rewrite]
+# The next clue is "LDOS".
 import winsound
 import turtle
 import os
